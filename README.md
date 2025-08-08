@@ -30,7 +30,7 @@ A collection of notebooks for applying and testing fmMAP.
 * [Notebook-1](./notebooks/1%20-%20FM-feature_Extract_and_Site_Tracking_UNI2h.ipynb) Extract and use FM features for site tracking with UNI-2h.
 * [Notebook-2](./notebooks/2%20-%20fmMAP-Feature_Generate_and_Compare_to_FM_UNI2h.ipynb) generates fmMAP features and shows the performance improvements with UNI-2h.
 * [Notebook-3](./notebooks/3%20-%20Five-Fold_Cross_Validation_Performance_Test.ipynb) shows our five-fold cross-validation test.
-* [Notebook-4](./notebooks/4%20-%2Robustness_Index_Calculating.ipynb) calculates Robustness Index for FMs.
+* [Notebook-4](./notebooks/4%20-%20Robustness_Index_Calculating.ipynb) calculates Robustness Index for FMs.
 * [Notebook-5](./notebooks/5%20-%20Figure_Builder.ipynb) plots some figures in our articles.
 
 ## License
