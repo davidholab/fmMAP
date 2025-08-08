@@ -13,7 +13,9 @@ We propose a Foundation Model-based Manifold Approximation Pipeline (fmMAP) to r
 * matplotlib
 
 ## Foundation Models (FMs)
-You can find the tutorials and pretrained FMs at their HuggingFace:
+> [!NOTE]
+> You can find the tutorials and pretrained FMs at their HuggingFace:
+
 * [UNI-2h](https://huggingface.co/MahmoodLab/UNI2-h)
 * [UNI](https://huggingface.co/MahmoodLab/UNI)
 * [Virchow](https://huggingface.co/paige-ai/Virchow)
@@ -24,7 +26,8 @@ You can find the tutorials and pretrained FMs at their HuggingFace:
 * [Phikon-v2](https://huggingface.co/owkin/phikon-v2)
 
 ## Notebooks
-A collection of notebooks for applying and testing fmMAP.
+> [!TIP]
+> A collection of notebooks for applying and testing fmMAP.
 
 * [Notebook-1](./notebooks/1%20-%20FM-feature_Extract_and_Site_Tracking_UNI2h.ipynb) extracts and uses FM features for site tracking with UNI-2h.
 * [Notebook-2](./notebooks/2%20-%20fmMAP-Feature_Generate_and_Compare_to_FM_UNI2h.ipynb) generates fmMAP features and shows the performance improvements with UNI-2h.
@@ -36,12 +39,16 @@ A collection of notebooks for applying and testing fmMAP.
 * Our analysis is based on [UNI](https://github.com/mahmoodlab/UNI) guidelines.
 * This code is based on [UMAP](https://github.com/lmcinnes/umap).
 
-## Reference
+<!-- ## Reference
 If you find our work useful, please cite our [paper](./README.md):
 ```
-@article{ho2025,
+@article{nguyen2025,
   title={fmMAP: A Framework Reducing Site-Bias Batch Effect from Foundation Models in Pathology},
   author={Nguyen, Cao Truong Hai and Ho, David Joon},
   year={2025}
 }
 ```
+-->
+
+
+
