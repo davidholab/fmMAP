@@ -39,16 +39,17 @@ We propose a Foundation Model-based Manifold Approximation Pipeline (fmMAP) to r
 * Our analysis is based on [UNI](https://github.com/mahmoodlab/UNI) guidelines.
 * This code is based on [UMAP](https://github.com/lmcinnes/umap).
 
-<!-- ## Reference
-If you find our work useful, please cite our [paper](./README.md):
+## Reference
+If you find our work useful, please cite our [paper](https://openreview.net/forum?id=o247Qbp9qJ):
 ```
 @article{nguyen2025,
   title={fmMAP: A Framework Reducing Site-Bias Batch Effect from Foundation Models in Pathology},
-  author={Nguyen, Cao Truong Hai and Ho, David Joon},
-  year={2025}
+  author={Nguyen, Cao Truong Hai and Ho, David Joon},  
+  journal={Proceedings of Machine Learning Research (PMLR)},
+  year={2025}  
 }
 ```
--->
+
 
 
 
